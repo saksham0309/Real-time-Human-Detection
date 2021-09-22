@@ -3,7 +3,10 @@
 
 # To execute
 1. For Picture
+
 ```python main.py - i <Picture's Address>```
 
 2. For Video
+
+
 ```python main.py - v <Video's Address>```
