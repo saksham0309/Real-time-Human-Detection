@@ -10,3 +10,7 @@
 
 
 ```python main.py - v <Video's Address>```
+
+3. For Camera
+
+```python main.py -c True```
